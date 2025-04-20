@@ -94,7 +94,7 @@ const About: React.FC = () => {
           <div className="order-1 md:order-2 flex justify-center">
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img
-                src="assets/Ravi DP.jpg"
+                src="assets/Ravi.jpg"
                 alt="Ravi Raj Singh"
                 className="w-full h-full object-cover"
               />
