@@ -93,16 +93,11 @@ const About: React.FC = () => {
 
           <div className="order-1 md:order-2 flex justify-center">
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
-              <a
-                href="https://drive.google.com/file/d/1ZYWkmnPeOQe3tzmczPZqNEZt4lELiYwj/view?usp=drive_link"
-                target="_blank"
-              >
-                <img
-                  src="/Ravi DP.jpg"
-                  alt="Ravi Raj Singh"
-                  className="w-full h-full object-cover"
-                />
-              </a>
+              <img
+                src="assets/Ravi DP.jpg"
+                alt="Ravi Raj Singh"
+                className="w-full h-full object-cover"
+              />
 
               <div className="absolute inset-0 bg-gradient-to-t from-blue-900/20 to-transparent"></div>
             </div>
