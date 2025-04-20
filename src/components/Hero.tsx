@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
               Contact Me
             </a>
             <a
-              href="/General cv_12200517_RaviRajSingh.pdf" // Link to the PDF in the public folder
+              href="/general.pdf" // Link to the PDF in the public folder
               className="inline-flex items-center px-6 py-3 text-base font-medium text-white bg-green-600 border border-transparent rounded-md shadow-sm hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 transition-all duration-300"
               target="_blank" // Optional: to open in a new tab
               rel="noopener noreferrer" // Security enhancement when using target="_blank"
